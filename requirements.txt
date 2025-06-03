@@ -3,3 +3,10 @@ numpy
 matplotlib
 seaborn
 pytest
+ta-lib
+y-finance
+pynance
+jupyterlab
+scilit-learn
+nltk
+textblob
